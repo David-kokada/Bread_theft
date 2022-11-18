@@ -977,3 +977,11 @@ Recommended: 516.25
 [2022.11.18-13.08.59:628][129]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
 [2022.11.18-13.09.14:198][842]BlueprintLog: New page: Compile BP_FirstPersonCharacter
 [2022.11.18-13.09.14:277][842]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2022.11.18-13.09.43:907][962]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2022.11.18-13.09.43:909][962]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.031
+[2022.11.18-13.09.43:909][962]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2022.11.18-13.09.43:956][962]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2022.11.18-13.09.43:956][962]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2022.11.18-13.09.44:002][962]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto7
+[2022.11.18-13.09.44:003][962]LogSavePackage: Moving '../../../../../../Users/david/Desktop/cadeira das gamejams/Bread_Theft/Bread_theft/Saved/BP_FirstPersonCharacter_Auto779FE4D014E17301911A265882B45419E.tmp' to '../../../../../../Users/david/Desktop/cadeira das gamejams/Bread_Theft/Bread_theft/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto7.uasset'
+[2022.11.18-13.09.44:004][962]LogFileHelpers: Auto-saving content packages took 0.094
