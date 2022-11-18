@@ -985,3 +985,8 @@ Recommended: 516.25
 [2022.11.18-13.09.44:002][962]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto7
 [2022.11.18-13.09.44:003][962]LogSavePackage: Moving '../../../../../../Users/david/Desktop/cadeira das gamejams/Bread_Theft/Bread_theft/Saved/BP_FirstPersonCharacter_Auto779FE4D014E17301911A265882B45419E.tmp' to '../../../../../../Users/david/Desktop/cadeira das gamejams/Bread_Theft/Bread_theft/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto7.uasset'
 [2022.11.18-13.09.44:004][962]LogFileHelpers: Auto-saving content packages took 0.094
+[2022.11.18-13.10.33:640][214]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.11.18-13.10.33:775][214]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2022.11.18-13.10.33:776][214]LogSavePackage: Moving '../../../../../../Users/david/Desktop/cadeira das gamejams/Bread_Theft/Bread_theft/Saved/BP_FirstPersonCharacterF98FF93C45F8960A3F5ED68D5B1ADDF1.tmp' to '../../../../../../Users/david/Desktop/cadeira das gamejams/Bread_Theft/Bread_theft/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.11.18-13.10.33:790][214]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.11.18-13.10.33:790][214]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
