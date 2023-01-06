@@ -2665,3 +2665,103 @@ Recommended: 516.25
 [2023.01.06-11.29.21:104][570]LogContentValidation: Display: Validating Texture2D /Game/FirstPerson/Arms_And_Baguete/NewFolder/01_-_Default_Base_Color.01_-_Default_Base_Color
 [2023.01.06-11.29.21:104][570]LogContentValidation: Display: Validating Material /Game/FirstPerson/Arms_And_Baguete/NewFolder/Material__25.Material__25
 [2023.01.06-11.29.21:104][570]LogContentValidation: Display: Validating StaticMesh /Game/FirstPerson/Arms_And_Baguete/NewFolder/hand_left_Cylinder001.hand_left_Cylinder001
+[2023.01.06-11.30.13:386][832]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.06-11.30.13:394][832]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.06-11.30.13:394][832]PIE: New page: PIE session: Main_Menu_Level (6 Jan 2023, 11:30:13)
+[2023.01.06-11.30.13:394][832]LogPlayLevel: Creating play world package: /Game/FirstPerson/UI/UEDPIE_0_Main_Menu_Level
+[2023.01.06-11.30.13:396][832]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001444s)
+[2023.01.06-11.30.13:396][832]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/UI/Main_Menu_Level.Main_Menu_Level to /Game/FirstPerson/UI/UEDPIE_0_Main_Menu_Level.Main_Menu_Level (0.001592s)
+[2023.01.06-11.30.13:396][832]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.06-11.30.13:396][832]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.06-11.30.13:397][832]LogAIModule: Creating AISystem for world Main_Menu_Level
+[2023.01.06-11.30.13:397][832]LogPlayLevel: PIE: World Init took: (0.001144s)
+[2023.01.06-11.30.13:440][832]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2023.01.06-11.30.13:441][832]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.01.06-11.30.13:441][832]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.06-11.30.13:441][832]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.06-11.30.13:441][832]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.06-11.30.13:442][832]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.06-11.30.13:442][832]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.06-11.30.13:442][832]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.06-11.30.13:442][832]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.06-11.30.13:442][832]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.06-11.30.13:443][832]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.06-11.30.13:443][832]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.06-11.30.13:443][832]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.06-11.30.13:445][832]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.06-11.30.13:468][832]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- High Definition Audio Device)
+[2023.01.06-11.30.13:469][832]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.06-11.30.13:469][832]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.06-11.30.13:469][832]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.06-11.30.13:470][832]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2023.01.06-11.30.13:470][832]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2023.01.06-11.30.13:471][832]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2023.01.06-11.30.13:471][832]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2023.01.06-11.30.13:471][832]LogInit: FAudioDevice initialized.
+[2023.01.06-11.30.13:471][832]LogAudio: Display: Audio Device (ID: 10) registered with world 'Main_Menu_Level'.
+[2023.01.06-11.30.13:487][832]LogLoad: Game class is 'BP_MenuGameMode_C'
+[2023.01.06-11.30.13:487][832]LogWorld: Bringing World /Game/FirstPerson/UI/UEDPIE_0_Main_Menu_Level.Main_Menu_Level up for play (max tick rate 60) at 2023.01.06-11.30.13
+[2023.01.06-11.30.13:487][832]LogWorld: Bringing up level for play took: 0.000302
+[2023.01.06-11.30.13:489][832]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2023.01.06-11.30.13:491][832]PIE: Server logged in
+[2023.01.06-11.30.13:492][832]PIE: Play in editor total start time 0.098 seconds.
+[2023.01.06-11.30.14:337][882]LogNet: Browse: /Game/FirstPerson/Maps/Blockout
+[2023.01.06-11.30.14:337][882]LogLoad: LoadMap: /Game/FirstPerson/Maps/Blockout
+[2023.01.06-11.30.14:337][882]LogWorld: BeginTearingDown for /Game/FirstPerson/UI/UEDPIE_0_Main_Menu_Level
+[2023.01.06-11.30.14:338][882]LogWorld: UWorld::CleanupWorld for Main_Menu_Level, bSessionEnded=true, bCleanupResources=true
+[2023.01.06-11.30.14:338][882]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.06-11.30.14:380][882]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.06-11.30.14:382][882]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2023.01.06-11.30.14:391][882]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.01.06-11.30.14:392][882]LogAudio: Display: Audio Device (ID: 10) registered with world 'Blockout'.
+[2023.01.06-11.30.14:392][882]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.06-11.30.14:393][882]LogAIModule: Creating AISystem for world Blockout
+[2023.01.06-11.30.14:393][882]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.01.06-11.30.14:393][882]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.01.06-11.30.14:401][882]LogWorldPartition: Display: GenerateStreaming started...
+[2023.01.06-11.30.14:401][882]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.01.06-11.30.14:401][882]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.01.06-11.30.14:402][882]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.01.06-11.30.14:402][882]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.01.06-11.30.14:402][882]LogWorldPartition: Display: GetPartitionedActors took 153 us
+[2023.01.06-11.30.14:646][882]LogWorldPartition: Display: GenerateStreaming took 244 ms
+[2023.01.06-11.30.14:651][882]LogWorldPartition: Display: WorldPartition initialize took 256 ms
+[2023.01.06-11.30.14:651][882]LogPlayLevel: PIE: World Init took: (0.257789s)
+[2023.01.06-11.30.14:651][882]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.01.06-11.30.14:659][882]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_Blockout.Blockout up for play (max tick rate 60) at 2023.01.06-11.30.14
+[2023.01.06-11.30.14:659][882]LogWorld: Bringing up level for play took: 0.008354
+[2023.01.06-11.30.14:662][882]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=10109.000 Y=4596.000 Z=391.316
+[2023.01.06-11.30.14:662][882]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.01.06-11.30.14:662][882]LogLoad: Took 0.324421 seconds to LoadMap(/Game/FirstPerson/Maps/Blockout)
+[2023.01.06-11.30.20:440][219]LogNet: Browse: /Game/FirstPerson/UI/Main_Menu_Level
+[2023.01.06-11.30.20:440][219]LogLoad: LoadMap: /Game/FirstPerson/UI/Main_Menu_Level
+[2023.01.06-11.30.20:440][219]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_Blockout
+[2023.01.06-11.30.20:441][219]LogWorld: UWorld::CleanupWorld for Blockout, bSessionEnded=true, bCleanupResources=true
+[2023.01.06-11.30.20:442][219]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.06-11.30.20:506][219]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.06-11.30.20:515][219]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2023.01.06-11.30.20:517][219]LogPlayLevel: Creating play world package: /Game/FirstPerson/UI/UEDPIE_0_Main_Menu_Level
+[2023.01.06-11.30.20:518][219]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000978s)
+[2023.01.06-11.30.20:518][219]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/UI/Main_Menu_Level.Main_Menu_Level to /Game/FirstPerson/UI/UEDPIE_0_Main_Menu_Level.Main_Menu_Level (0.001090s)
+[2023.01.06-11.30.20:518][219]LogAudio: Display: Audio Device (ID: 10) registered with world 'Main_Menu_Level'.
+[2023.01.06-11.30.20:518][219]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.06-11.30.20:518][219]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.06-11.30.20:519][219]LogAIModule: Creating AISystem for world Main_Menu_Level
+[2023.01.06-11.30.20:519][219]LogPlayLevel: PIE: World Init took: (0.000912s)
+[2023.01.06-11.30.20:519][219]LogLoad: Game class is 'BP_MenuGameMode_C'
+[2023.01.06-11.30.20:520][219]LogWorld: Bringing World /Game/FirstPerson/UI/UEDPIE_0_Main_Menu_Level.Main_Menu_Level up for play (max tick rate 60) at 2023.01.06-11.30.20
+[2023.01.06-11.30.20:520][219]LogWorld: Bringing up level for play took: 0.000314
+[2023.01.06-11.30.20:520][219]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.01.06-11.30.20:522][219]LogLoad: Took 0.081220 seconds to LoadMap(/Game/FirstPerson/UI/UEDPIE_0_Main_Menu_Level)
+[2023.01.06-11.30.27:106][611]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.06-11.30.27:106][611]LogWorld: BeginTearingDown for /Game/FirstPerson/UI/UEDPIE_0_Main_Menu_Level
+[2023.01.06-11.30.27:106][611]LogWorld: UWorld::CleanupWorld for Main_Menu_Level, bSessionEnded=true, bCleanupResources=true
+[2023.01.06-11.30.27:107][611]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.06-11.30.27:119][611]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.06-11.30.27:124][611]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.06-11.30.27:158][611]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.06-11.30.27:158][611]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.01.06-11.30.27:160][611]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.01.06-11.30.27:167][611]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2023.01.06-11.30.27:182][612]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2023.01.06-11.30.29:453][728]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
